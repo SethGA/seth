@@ -1,6 +1,6 @@
 import IconBar from '@/components/molecules/IconBar';
 
-const PostPage = (props) => {
+const PostPage = () => {
   return (
     <div className="flex w-full flex-col items-center py-16">
       <div className="flex w-full flex-col gap-4 p-4 md:items-center md:p-0 md:pt-4">
