@@ -34,9 +34,12 @@
   color: #fafafa;
 }
 
-body {
+html, body {
   @apply !font-light;
   font-size: 15px;
+  height: 100%;
+  overflow-y: auto;
+  overflow-x: hidden;
 }
 
 pre code {

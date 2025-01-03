@@ -35,7 +35,7 @@ const IconBar = ({ className }: { className?: string }) => {
           />
         </svg>
       </a>
-      <a target="_blank" href="mailto:sethgriefalbert@gmail.com">
+      <a target="_blank" href="mailto:seth.griefalbert@queensu.ca">
         <svg
           width="15"
           height="15"

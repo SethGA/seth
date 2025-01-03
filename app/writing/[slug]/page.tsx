@@ -39,7 +39,7 @@ export async function generateMetadata(
   } = matterResult.data;
 
   return {
-    metadataBase: new URL('https://www.marcelochaman.ca'),
+    metadataBase: new URL('https://www.sethgriefalbert.com'),
     title: `${title} | Seth Grief-Albert - Writing`,
     description: subtitle,
     openGraph: {

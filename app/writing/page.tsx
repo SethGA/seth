@@ -10,7 +10,7 @@ export async function generateMetadata(
   parent: ResolvingMetadata,
 ): Promise<Metadata> {
   return {
-    metadataBase: new URL('https://www.marcelochaman.ca'),
+    metadataBase: new URL('https://www.sethgriefalbert.com'),
     title: 'Seth Grief-Albert - Writing',
     description: '...',
   };

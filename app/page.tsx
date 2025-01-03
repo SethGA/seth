@@ -13,15 +13,14 @@ const PostPage = (props) => {
         <p className="w-full max-w-[700px] font-light">
           Undergraduate at Queen's University
         </p>
+        <IconBar className="!mb-1" />
         <figure className="w-full max-w-[700px]">
           <img src="/bell.png" className="w-full" />
           <figcaption className="text-sm text-gray-500 mt-3">
             Bell Telephone Laboratories | May 1942
           </figcaption>
           <div className="p-2"></div>
-          <hr className="my-2 w-full border-u-300/10" />
         </figure>
-        <IconBar className="!mb-2" />
       </div>
     </div>
   );
