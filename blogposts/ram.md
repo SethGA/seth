@@ -11,6 +11,6 @@ A human is like a computer. We do things that require thinking, sometimes over l
 
 Many things in life are distractions from thinking. Anger, for instance, overloads the less evolved parts of our brain with powerful hormones that take resources away from our RAM. If you want to get something important done over a period of time, you need to **defend your RAM**.
 
-A quote from Richard Hamming, in *The Art of Doing Science and Engineering*:
+A quote from Richard Hamming, in *[You and Your Research](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)*:
 
 >So the way to manage yourself is that when you have a real important problem you don’t let anything else get the center of your attention—you keep your thoughts on the problem. Keep your subconscious starved so it has to work on _your_ problem, so you can sleep peacefully and get the answer in the morning, free.
