@@ -1,6 +1,6 @@
 ---
 title: Bookshelf
-subtitle: A curated list of books I've read
+subtitle: A curated list of books I've enjoyed
 date: Living Document
 visibility: public
 ---
@@ -46,7 +46,7 @@ Metamorphosis — *Franz Kafka*
 
 On Work — *Derek Thompson*  
 
-Surely You're Joking, Mr. Feynman! — Richard Feynman 
+Surely You're Joking, Mr. Feynman! — *Richard Feynman* 
 
 Tau Zero — *Poul Anderson*  
 
