@@ -11,7 +11,7 @@ const PostPage = () => {
           </p>
         </h1>
         <p className="w-full max-w-[700px] font-light">
-          Undergraduate at Queen's University
+          I am an undergraduate at Queen's University studying Applied Mathematics & Computer Engineering. I am interested in researching, developing, and harnessing machine intelligence to empower humanity in the 21st century. Last summer, I worked on multimodal LLMs for human understanding at the <a href="https://www.aiimlab.com/" target="_blank" rel="noopener noreferrer" className="font-bold hover:opacity-70">Aiim Lab</a> under the supervision of <a href="https://pritamsarkar.com/" target="_blank" rel="noopener noreferrer" className="font-bold hover:opacity-70">Pritam Sarkar</a> and Professor <a href="https://smithengineering.queensu.ca/directory/faculty/ali-etemad" target="_blank" rel="noopener noreferrer" className="font-bold hover:opacity-70">Ali Etemad</a>. This summer, I will be at <a href="https://rosalindcap.com/" target="_blank" rel="noopener noreferrer" className="font-bold hover:opacity-70">Rosalind Advisors</a>, a biotech hedge fund based in Toronto, as an AI Research Engineer.
         </p>
         <IconBar className="!mb-1" />
         <figure className="w-full max-w-[700px]">
