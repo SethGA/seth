@@ -11,7 +11,7 @@ I recently wrapped up organizing the 2025 Canadian Undergraduate Conference on A
 
 I met a lot of really cool people. Conferences are a great place to do this because you have common ground. You're far less obligated to small talk when you have shared interests with the people around you. I hate the word "networking", but doing it at a conference is far more satisfying than on LinkedIn, where everyone's *trying* to network. Vibes are important.  
 
-I structured the team to be very lean, with 10 people in total. Giving everyone ownership over their work seems to make organizations efficient. Plus, it's way more fun to organize something with a group of friends than to try and steer a bloated team where people slip through the cracks.  
+I structured the team to be lean, with 10 people in total. Giving everyone ownership over their work seems to make organizations efficient. Plus, it's way more fun to organize something with a group of friends than to try and steer a bloated team where people slip through the cracks.  
 
 People seemed to like this year's conference. We had a 98% satisfaction rate from a post-event poll. And judging by the number of LinkedIn posts, people liked it enough to share it with others.  
 
