@@ -34,8 +34,9 @@ const Navbar = () => {
 
   return (
     <div className="absolute bottom-6 left-1/2 z-50 flex h-fit w-fit -translate-x-1/2 flex-row flex-nowrap gap-2 rounded-full border-[1px] border-u-900/50 bg-u-950 p-[4px]">
-      <NavbarItem href="/">About</NavbarItem>
-      <NavbarItem href="/writing">Writing</NavbarItem>
+      <NavbarItem href="/">about</NavbarItem>
+      <NavbarItem href="/writing">writing</NavbarItem>
+      <NavbarItem href="/arca">ARCA</NavbarItem>
     </div>
   );
 };
