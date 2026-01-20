@@ -10,70 +10,86 @@ visibility: public
 
 ---
 
-A Brief History of Intelligence — *Max Bennett*
+A Clockwork Orange — *Anthony Burgess*
 
-A Clockwork Orange — *Anthony Burgess*  
+A Universal History of Infamy — *Jorge Luis Borges*
 
 Beyond the Aquila Rift — *Alastair Reynolds*  
 
 Black Holes and Baby Universes and Other Essays — *Stephen Hawking*  
 
-BOOM: Bubbles and the End of Stagnation — *Hobart and Huber*  
+BOOM: Bubbles and the End of Stagnation — *Byrne Hobart* & *Tobias Huber*
 
-Do Androids Dream of Electric Sheep? — *Philip K. Dick*  
+Do Androids Dream of Electric Sheep? — *Philip K. Dick*
 
-Educated — *Tara Westover*  
+Educated — *Tara Westover*
 
-Fahrenheit 451 — *Ray Bradbury*  
+Fahrenheit 451 — *Ray Bradbury*
 
-Flowers for Algernon — *Daniel Keyes*  
+Flowers for Algernon — *Daniel Keyes*
 
-Foundation (series) — *Issac Asimov*  
+Foundation (series) — *Issac Asimov*
 
-Hyperion — *Dan Simmons*  
+Homo Deus — *Yuval Noah Harari*
 
-Human, all too Human — *Friedrich Nietzsche*  
+Human, all too Human — *Friedrich Nietzsche*
 
-I, Robot (series) — *Issac Asimov*  
+Hyperion — *Dan Simmons*
 
-Lolita — *Vladimir Nabokov*  
+I, Robot (series) — *Issac Asimov*
 
-Man A Machine — *Julien Offray de La Mettrie*  
+Lolita — *Vladimir Nabokov*
 
-Man's Search for Meaning — *Victor Frankl*  
+Man A Machine — *Julien Offray de La Mettrie*
 
-Metamorphosis — *Franz Kafka*  
+Man's Search for Meaning — *Victor Frankl*
 
-On Work — *Derek Thompson*  
+Metamorphosis — *Franz Kafka*
 
-Surely You're Joking, Mr. Feynman! — *Richard Feynman* 
+On Work — *Derek Thompson*
 
-Tau Zero — *Poul Anderson*  
+Sapiens — *Yuval Noah Harari*
 
-The Art of Doing Science and Engineering — *Richard Hamming*  
+Surely You're Joking, Mr. Feynman! — *Richard Feynman*
 
-The Changing World Order — *Ray Dalio*  
+Tau Zero — *Poul Anderson*
 
-The Creative Act — *Rick Rubin*  
+The Art of Doing Science and Engineering — *Richard Hamming*
 
-The Order of Time — *Carlo Rovelli*  
+The Changing World Order — *Ray Dalio*
 
-The Real World of Technology — *Ursula Franklin*  
+The Creative Act — *Rick Rubin*
 
-The Repairer of Reputations — *Robert W. Chambers*  
+The Metamorphosis of Prime Intellect — *Roger Williams*
 
-The State of the Art — *Iain M. Banks*  
+The Order of Time — *Carlo Rovelli*
 
-The Time Machine — *H.G. Wells*  
+The Precipice — *Toby Ord*
+
+The Real World of Technology — *Ursula Franklin*
+
+The Repairer of Reputations — *Robert W. Chambers*
+
+The Road — *Cormac McCarthy*
+
+The Running Man — *Stephen King*
+
+The State of the Art — *Iain M. Banks*
+
+The Time Machine — *H.G. Wells*
 
 The Trial — *Franz Kafka*
 
 The World Behind the World — *Erik Hoel*
 
+There Is No Antimemetics Division — *qntm*
+
 Think Again — *Adam Grant*
 
 Thinking in Systems — *Donella H. Meadows*
 
-Why Nations Fail — *Daron Acemoglu*
+Until the End of Time — *Brian Greene*
+
+Why Nations Fail — *Daron Acemoglu* & *James A. Robinson*
 
 1984 — *George Orwell*
