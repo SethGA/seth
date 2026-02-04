@@ -14,17 +14,25 @@ A Clockwork Orange — *Anthony Burgess*
 
 A Universal History of Infamy — *Jorge Luis Borges*
 
+American Psycho — *Bret Easton Ellis*
+
 Beyond the Aquila Rift — *Alastair Reynolds*  
 
 Black Holes and Baby Universes and Other Essays — *Stephen Hawking*  
 
 BOOM: Bubbles and the End of Stagnation — *Byrne Hobart* & *Tobias Huber*
 
+Cosmos — *Carl Sagan*
+
 Do Androids Dream of Electric Sheep? — *Philip K. Dick*
 
 Educated — *Tara Westover*
 
+Engines of Creation — *K. Eric Drexler*
+
 Fahrenheit 451 — *Ray Bradbury*
+
+Ficciones — *Jorge Luis Borges*
 
 Flowers for Algernon — *Daniel Keyes*
 
@@ -39,6 +47,8 @@ Hyperion — *Dan Simmons*
 I, Robot (series) — *Issac Asimov*
 
 Lolita — *Vladimir Nabokov*
+
+Lord of the Flies — *William Golding*
 
 Man A Machine — *Julien Offray de La Mettrie*
 
