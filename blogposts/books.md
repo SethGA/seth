@@ -16,7 +16,9 @@ A Universal History of Infamy — *Jorge Luis Borges*
 
 American Psycho — *Bret Easton Ellis*
 
-Beyond the Aquila Rift — *Alastair Reynolds*  
+Beyond the Aquila Rift — *Alastair Reynolds*
+
+Beyond the Known — *Andrew Rader*
 
 Black Holes and Baby Universes and Other Essays — *Stephen Hawking*  
 
@@ -28,6 +30,8 @@ Do Androids Dream of Electric Sheep? — *Philip K. Dick*
 
 Educated — *Tara Westover*
 
+Ender's Game — *Orson Scott Card*
+
 Engines of Creation — *K. Eric Drexler*
 
 Fahrenheit 451 — *Ray Bradbury*
@@ -37,6 +41,8 @@ Ficciones — *Jorge Luis Borges*
 Flowers for Algernon — *Daniel Keyes*
 
 Foundation (series) — *Issac Asimov*
+
+Guns, Germs, and Steel — *Jared Diamond*
 
 Homo Deus — *Yuval Noah Harari*
 
@@ -69,6 +75,8 @@ The Art of Doing Science and Engineering — *Richard Hamming*
 The Changing World Order — *Ray Dalio*
 
 The Creative Act — *Rick Rubin*
+
+The Hitchhiker's Guide to the Galaxy (series) — *Douglas Adams*
 
 The Metamorphosis of Prime Intellect — *Roger Williams*
 
