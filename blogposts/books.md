@@ -42,6 +42,8 @@ Flowers for Algernon — *Daniel Keyes*
 
 Foundation (series) — *Issac Asimov*
 
+Great Expectations — *Charles Dickens*
+
 Guns, Germs, and Steel — *Jared Diamond*
 
 Homo Deus — *Yuval Noah Harari*
