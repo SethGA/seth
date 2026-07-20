@@ -10,106 +10,246 @@ visibility: public
 
 ---
 
-A Clockwork Orange — *Anthony Burgess*
+# Douglas Adams
 
-A Universal History of Infamy — *Jorge Luis Borges*
+The Hitchhiker's Guide to the Galaxy
 
-American Psycho — *Bret Easton Ellis*
+The Restaurant at the End of the Universe
 
-Beyond the Aquila Rift — *Alastair Reynolds*
+Life, the Universe and Everything
 
-Beyond the Known — *Andrew Rader*
+So Long, and Thanks for All the Fish
 
-Black Holes and Baby Universes and Other Essays — *Stephen Hawking*  
+Mostly Harmless
 
-BOOM: Bubbles and the End of Stagnation — *Byrne Hobart* & *Tobias Huber*
+# Daron Acemoglu
 
-Cosmos — *Carl Sagan*
+Why Nations Fail — *with James A. Robinson*
 
-Do Androids Dream of Electric Sheep? — *Philip K. Dick*
+# Poul Anderson
 
-Educated — *Tara Westover*
+Tau Zero
 
-Ender's Game — *Orson Scott Card*
+# Isaac Asimov
 
-Engines of Creation — *K. Eric Drexler*
+Foundation
 
-Fahrenheit 451 — *Ray Bradbury*
+Foundation and Empire
 
-Ficciones — *Jorge Luis Borges*
+Second Foundation
 
-Flowers for Algernon — *Daniel Keyes*
+Foundation's Edge
 
-Foundation (series) — *Issac Asimov*
+Foundation and Earth
 
-Great Expectations — *Charles Dickens*
+Prelude to Foundation
 
-Guns, Germs, and Steel — *Jared Diamond*
+Forward the Foundation
 
-Homo Deus — *Yuval Noah Harari*
+The Caves of Steel
 
-Human, all too Human — *Friedrich Nietzsche*
+The Naked Sun
 
-Hyperion — *Dan Simmons*
+The Robots of Dawn
 
-I, Robot (series) — *Issac Asimov*
+Robots and Empire
 
-Lolita — *Vladimir Nabokov*
+# Iain M. Banks
 
-Lord of the Flies — *William Golding*
+The State of the Art
 
-Man A Machine — *Julien Offray de La Mettrie*
+# Ray Bradbury
 
-Man's Search for Meaning — *Victor Frankl*
+Fahrenheit 451
 
-Metamorphosis — *Franz Kafka*
+# Jorge Luis Borges
 
-On Work — *Derek Thompson*
+A Universal History of Infamy
 
-Sapiens — *Yuval Noah Harari*
+Ficciones
 
-Surely You're Joking, Mr. Feynman! — *Richard Feynman*
+# Anthony Bourdain
 
-Tau Zero — *Poul Anderson*
+Kitchen Confidential
 
-The Art of Doing Science and Engineering — *Richard Hamming*
+# Anthony Burgess
 
-The Changing World Order — *Ray Dalio*
+A Clockwork Orange
 
-The Creative Act — *Rick Rubin*
+# Orson Scott Card
 
-The Hitchhiker's Guide to the Galaxy (series) — *Douglas Adams*
+Ender's Game
 
-The Metamorphosis of Prime Intellect — *Roger Williams*
+# Robert W. Chambers
 
-The Order of Time — *Carlo Rovelli*
+The Repairer of Reputations
 
-The Precipice — *Toby Ord*
+# Ray Dalio
 
-The Real World of Technology — *Ursula Franklin*
+The Changing World Order
 
-The Repairer of Reputations — *Robert W. Chambers*
+# Charles Dickens
 
-The Road — *Cormac McCarthy*
+Great Expectations
 
-The Running Man — *Stephen King*
+# Philip K. Dick
 
-The State of the Art — *Iain M. Banks*
+Do Androids Dream of Electric Sheep?
 
-The Time Machine — *H.G. Wells*
+# Jared Diamond
 
-The Trial — *Franz Kafka*
+Guns, Germs, and Steel
 
-The World Behind the World — *Erik Hoel*
+# K. Eric Drexler
 
-There Is No Antimemetics Division — *qntm*
+Engines of Creation
 
-Think Again — *Adam Grant*
+# Bret Easton Ellis
 
-Thinking in Systems — *Donella H. Meadows*
+American Psycho
 
-Until the End of Time — *Brian Greene*
+# Victor Frankl
 
-Why Nations Fail — *Daron Acemoglu* & *James A. Robinson*
+Man's Search for Meaning
 
-1984 — *George Orwell*
+# Ursula Franklin
+
+The Real World of Technology
+
+# Richard Feynman
+
+Surely You're Joking, Mr. Feynman!
+
+# William Golding
+
+Lord of the Flies
+
+# Brian Greene
+
+Until the End of Time
+
+# Adam Grant
+
+Think Again
+
+# Yuval Noah Harari
+
+Homo Deus
+
+Nexus
+
+Sapiens
+
+# Richard Hamming
+
+The Art of Doing Science and Engineering
+
+# Stephen Hawking
+
+Black Holes and Baby Universes and Other Essays
+
+# Erik Hoel
+
+The World Behind the World
+
+# Bryne Hobart
+
+BOOM: Bubbles and the End of Stagnation — *with Tobias Huber*
+
+# Franz Kafka
+
+Metamorphosis
+
+The Trial
+
+# Daniel Keyes
+
+Flowers for Algernon
+
+# Stephen King
+
+The Running Man
+
+# Gabriel García Márquez
+
+One Hundred Years of Solitude
+
+# Julien Offray de La Mettrie
+
+Man a Machine
+
+# Donella H. Meadows
+
+Thinking in Systems
+
+# Cormac McCarthy
+
+The Road
+
+# Vladimir Nabokov
+
+Lolita
+
+# Friedrich Nietzsche
+
+Human, all too Human
+
+# Toby Ord
+
+The Precipice
+
+# George Orwell
+
+1984
+
+# Chuck Palahniuk
+
+Fight Club
+
+# Andrew Rader
+
+Beyond the Known
+
+# Alistair Reynolds
+
+Beyond the Aquila Rift
+
+# Carl Sagan
+
+Cosmos
+
+# Dan Simmons
+
+Hyperion
+
+# Derek Thompson
+
+On Work
+
+# Carlo Rovelli
+
+The Order of Time
+
+# Rick Rubin
+
+The Creative Act
+
+# John Steinbeck
+
+East of Eden
+
+# H.G. Wells
+
+The Time Machine
+
+# Tara Westover
+
+Educated
+
+# Roger Williams
+
+The Metamorphosis of Prime Intellect
+
+# qntm
+
+There is No Antimemetics Division
